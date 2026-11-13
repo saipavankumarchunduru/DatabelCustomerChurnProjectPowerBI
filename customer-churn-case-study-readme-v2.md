@@ -117,10 +117,7 @@ Created a Switch DAX for understanding the and categorizing the contract types
 *"Two Years" , "Yearly"*  
 *"Month to Month" , "Monthly" )*
 
-Used Clustered Column Chart for Categorizing Yearly & Monthly Contract types
-# Customer Churn Case Study
-
-with category Gender & Churn Rate as in y axis.
+Used Clustered Column Chart for Categorizing Yearly & Monthly Contract types with category Gender & Churn Rate as in y axis.
 
 x axis :- Contract Category  
 y axis :- Churn Rate  
